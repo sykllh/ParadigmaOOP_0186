@@ -11,7 +11,7 @@ public :
     void printData(){
         cout  << "Nama : " << nama << endl;
         cout  << "Jumlah : " << jumlah << endl;
-        cout  << "Nilai : " << nilai << endl;
+        cout  << "Kategori : " << kategori << endl;
 
     }
         
