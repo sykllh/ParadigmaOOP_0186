@@ -4,7 +4,7 @@ using namespace std;
 class Barang{
 public : 
     string nama;
-    string nama;
+    int jumlah;
     float nilai;
 
     void printData(){
