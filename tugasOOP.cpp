@@ -15,10 +15,11 @@ public :
         cout  << "TanggalProduksi : " << tanggalProduksi << endl;
     }
         
-    }
-}; //batas class
+    }; //batas Barang
 
 int main(){
+    
+}
     Mahasiswa mhs;
     mhs.nim = 2022;
     mhs.nama = "Abra";
