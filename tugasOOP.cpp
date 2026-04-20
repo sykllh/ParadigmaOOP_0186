@@ -3,7 +3,7 @@ using namespace std;
 
 class Barang{
 public : 
-    int nim;
+    string nama;
     string nama;
     float nilai;
 
