@@ -23,6 +23,15 @@ int main(){
     elektronik.jumlah = 1;
     elektronik.kategori = elektronik;
     elektronik.tanggalProduksi = 
+
+    Barang nonElektronik;
+    nonElektronik.nama = "Buku"
+    nonElektronik.jumlah = 1;
+    nonElektronik.kategori = nonElektronik;
+    nonElektronik.tanggalProduksi =
+
+    elektronik.printData();
+    nonElektronik.printData();
 }
     Mahasiswa mhs;
     mhs.nim = 2022;
