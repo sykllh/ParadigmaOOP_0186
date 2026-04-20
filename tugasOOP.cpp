@@ -5,7 +5,7 @@ class Barang{
 public : 
     string nama;
     int jumlah;
-    float nilai;
+    string kategori;
 
     void printData(){
         cout  << "NIM : " << nim << endl;
