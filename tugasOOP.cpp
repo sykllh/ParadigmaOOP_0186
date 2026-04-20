@@ -18,7 +18,11 @@ public :
     }; //batas Barang
 
 int main(){
-    
+    Barang elektronik;
+    elektronik.nama = "Handphone";
+    elektronik.jumlah = 1;
+    elektronik.kategori = elektronik;
+    elektronik.tanggalProduksi = 
 }
     Mahasiswa mhs;
     mhs.nim = 2022;
